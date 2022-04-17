@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/zhangliang/Documents/GitHub/te/MyStudy/Solution.cpp" "/Users/zhangliang/Documents/GitHub/te/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/Solution.cpp.o"
-  "/Users/zhangliang/Documents/GitHub/te/MyStudy/main.cpp" "/Users/zhangliang/Documents/GitHub/te/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/main.cpp.o"
-  "/Users/zhangliang/Documents/GitHub/te/MyStudy/test.cpp" "/Users/zhangliang/Documents/GitHub/te/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/test.cpp.o"
+  "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/Solution.cpp" "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/Solution.cpp.o"
+  "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/main.cpp" "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/main.cpp.o"
+  "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/test.cpp" "/Users/zhangliang/Documents/GitHub/MyStudy/MyStudy/cmake-build-debug/CMakeFiles/MyStudy.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
