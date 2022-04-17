@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangliang/Documents/GitHub/te/MyStudy/Solution.cpp
+Solution.h
+/Users/zhangliang/Documents/GitHub/te/MyStudy/Solution.h
+iostream
+-
+
+/Users/zhangliang/Documents/GitHub/te/MyStudy/Solution.h
+iostream
+-
+vector
+-
+
+/Users/zhangliang/Documents/GitHub/te/MyStudy/main.cpp
+iostream
+-
+vector
+-
+string
+-
+Solution.h
+/Users/zhangliang/Documents/GitHub/te/MyStudy/Solution.h
+test.h
+/Users/zhangliang/Documents/GitHub/te/MyStudy/test.h
+
+/Users/zhangliang/Documents/GitHub/te/MyStudy/test.cpp
+iostream
+-
+test.h
+/Users/zhangliang/Documents/GitHub/te/MyStudy/test.h
+
+/Users/zhangliang/Documents/GitHub/te/MyStudy/test.h
+
